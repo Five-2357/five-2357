@@ -1,5 +1,6 @@
-<h1 align="left">YOOOOO</h1>
+<h1 align="left">WHAT??????</h1>
 
+<img src="https://cdn.modrinth.com/data/cached_images/de7f2f606702569cd98fc1f6a0b29dbf817dd870.png" alt="Join us on Discord">
 I am stupid.
 
 <h3 align="left">
