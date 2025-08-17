@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="left">What are you looking at</h1>
 
-<!--
-**Five-2357/five-2357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make software  Oh and I also post [youtube videos](https://www.youtube.com/FaceDevStuff)
 
-Here are some ideas to get you started:
+<h3 align="left">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Stop+Being+Stupid.)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- STATS [START] ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=five-2357)](https://github.com/five-2357/github-profile-trophy)
+
+![five-2357](https://github-readme-stats.vercel.app/api?username=five-2357&show_icons=true&theme=tokyonight&hide=["issues"])
+
+![five-2357](https://github-readme-stats.vercel.app/api/top-langs?username=five-2357&show_icons=true&theme=tokyonight&layout=compact)
+
+--- STATS [END] ---
