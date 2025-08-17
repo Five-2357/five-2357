@@ -10,15 +10,14 @@ I am stupid.
   <img src="https://quiq.vercel.app/favicon.png" alt="Quiq" width="50"/>
 </a>
 <a href="https://blue-cube-5.vercel.app/" title="Quiq">
-  <img src="https://blue-cube-5.vercel.app/favicon.png" alt="BlueCube" width="50"/>
+  <img src="https://blue-cube-5.vercel.app/favicon.ico" alt="BlueCube" width="50"/>
 </a>
 
 ---------
 
 <h3 align="left">
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&lines=Stop+Being+Stupid.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&lines=Stop+Being+Stupid.)](https://git.io/typing-svg)
 
 --- Stats [START] ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=five-2357)](https://github.com/five-2357/github-profile-trophy)
