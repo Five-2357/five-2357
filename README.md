@@ -17,6 +17,7 @@ I am stupid.
 
 <h3 align="left">
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&lines=Stop+Being+Stupid.)](https://git.io/typing-svg)
 
 --- Stats [START] ---
