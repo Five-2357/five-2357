@@ -1,8 +1,9 @@
-<h1 align="left">What are you looking at</h1>
+<h1 align="left">YOOOOO</h1>
 
-I make software  Oh and I also post [youtube videos](https://www.youtube.com/FaceDevStuff)
+I am stupid.
 
 <h3 align="left">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Stop+Being+Stupid.)](https://git.io/typing-svg)
 
 --- STATS [START] ---
