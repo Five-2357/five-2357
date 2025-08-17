@@ -4,8 +4,6 @@
 <img src="https://fontawesome.com/icons/star?f=classic&s=solid" width="20" style="filter: invert(1);">
 <img src="https://fontawesome.com/icons/wind?f=classic&s=solid" width="20" style="filter: invert(1);">
 
-
-
 I am stupid.
 ## Websites:
 <a href="https://quiq.vercel.app/" title="Quiq">
@@ -27,5 +25,8 @@ I am stupid.
 ![five-2357](https://github-readme-stats.vercel.app/api?username=five-2357&show_icons=true&theme=tokyonight&hide=["issues"])
 
 ![five-2357](https://github-readme-stats.vercel.app/api/top-langs?username=five-2357&show_icons=true&theme=tokyonight&layout=compact)
+
+<!-- New stats added -->
+![Five_2357's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=five-2357&theme=tokyonight)
 
 --- Stats [END] ---
