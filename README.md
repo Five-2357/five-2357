@@ -1,17 +1,31 @@
 <h1 align="left">WHAT??????</h1>
 
-<img src="https://cdn.modrinth.com/data/cached_images/de7f2f606702569cd98fc1f6a0b29dbf817dd870.png" alt="Join us on Discord">
+<!-- Star N Wind icon, white -->
+<img src="https://fontawesome.com/icons/star?f=classic&s=solid" width="20" style="filter: invert(1);">
+<img src="https://fontawesome.com/icons/wind?f=classic&s=solid" width="20" style="filter: invert(1);">
+
+
+
 I am stupid.
+## Websites:
+<a href="https://quiq.vercel.app/" title="Quiq">
+  <img src="https://quiq.vercel.app/favicon.png" alt="Quiq" width="50"/>
+</a>
+<a href="https://blue-cube-5.vercel.app/" title="Quiq">
+  <img src="https://blue-cube-5.vercel.app/favicon.png" alt="BlueCube" width="50"/>
+</a>
+
+---------
 
 <h3 align="left">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Stop+Being+Stupid.)](https://git.io/typing-svg)
 
---- STATS [START] ---
+--- Stats [START] ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=five-2357)](https://github.com/five-2357/github-profile-trophy)
 
 ![five-2357](https://github-readme-stats.vercel.app/api?username=five-2357&show_icons=true&theme=tokyonight&hide=["issues"])
 
 ![five-2357](https://github-readme-stats.vercel.app/api/top-langs?username=five-2357&show_icons=true&theme=tokyonight&layout=compact)
 
---- STATS [END] ---
+--- Stats [END] ---
