@@ -1,10 +1,8 @@
 <h1 align="left">WHAT??????</h1>
-
 <!-- Star N Wind icon, white -->
 <img src="https://fontawesome.com/icons/star?f=classic&s=solid" width="20" style="filter: invert(1);">
 <img src="https://fontawesome.com/icons/wind?f=classic&s=solid" width="20" style="filter: invert(1);">
 
-I am stupid.
 ## Websites:
 <a href="https://quiq.vercel.app/" title="Quiq">
   <img src="https://quiq.vercel.app/favicon.png" alt="Quiq" width="50"/>
@@ -17,7 +15,7 @@ I am stupid.
 
 <h3 align="left">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&lines=Stop+Being+Stupid.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&lines=What+are+you+doing.)
 
 --- Stats [START] ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=five-2357)](https://github.com/five-2357/github-profile-trophy)
