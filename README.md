@@ -17,7 +17,7 @@ I am stupid.
 
 <h3 align="left">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&lines=Stop+Being+Stupid.)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&lines=Stop+Being+Stupid.)
 
 --- Stats [START] ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=five-2357)](https://github.com/five-2357/github-profile-trophy)
