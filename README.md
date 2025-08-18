@@ -1,7 +1,4 @@
-<h1 align="left">WHAT??????</h1>
-<!-- Star N Wind icon, white -->
-<img src="https://fontawesome.com/icons/star?f=classic&s=solid" width="20" style="filter: invert(1);">
-<img src="https://fontawesome.com/icons/wind?f=classic&s=solid" width="20" style="filter: invert(1);">
+<h1 align="left">HuH?</h1>
 
 ## Websites:
 <a href="https://quiq.vercel.app/" title="Quiq">
