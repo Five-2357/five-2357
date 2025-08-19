@@ -12,7 +12,7 @@
 
 <h3 align="left">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&lines=What+are+you+doing.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&lines=What+You+Looking+At.)
 
 --- Stats [START] ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=five-2357)](https://github.com/five-2357/github-profile-trophy)
